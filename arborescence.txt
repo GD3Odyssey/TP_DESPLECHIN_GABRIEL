@@ -1,0 +1,1474 @@
+Structure du dossier pour le volume Windows
+Le numéro de série du volume est 3CE8-11C0
+C:\USERS\GABRIEL.DESPLECHIN\DOCUMENTS\TP_GD_3\TP_GABRIEL_DESPLECHIN\TP_DESPLECHIN_GABRIEL\ASSETS
+|   .DS_Store
+|   DOTween.meta
+|   Hovl Studio.meta
+|   InputSystem_Actions.inputactions
+|   InputSystem_Actions.inputactions.meta
+|   KayKit_Adventurers_2.0_FREE.meta
+|   KayKit_Character_Animations_1.1.meta
+|   Matthew Guz.meta
+|   Readme.asset
+|   Readme.asset.meta
+|   Resources.meta
+|   Scenes.meta
+|   Settings.meta
+|   TestAnimator.cs
+|   TestAnimator.cs.meta
+|   TextMesh Pro.meta
+|   TP_Unity_Systeme_de_competences_RPG.pdf
+|   TP_Unity_Systeme_de_competences_RPG.pdf.meta
+|   
++---DOTween
+|   |   DOTween.dll
+|   |   DOTween.dll.meta
+|   |   DOTween.XML
+|   |   DOTween.XML.meta
+|   |   Editor.meta
+|   |   Modules.meta
+|   |   readme.txt
+|   |   readme.txt.meta
+|   |   
+|   +---Editor
+|   |   |   DOTweenEditor.dll
+|   |   |   DOTweenEditor.dll.meta
+|   |   |   DOTweenEditor.XML
+|   |   |   DOTweenEditor.XML.meta
+|   |   |   Imgs.meta
+|   |   |   
+|   |   \---Imgs
+|   |           DOTweenIcon.png
+|   |           DOTweenIcon.png.meta
+|   |           DOTweenMiniIcon.png
+|   |           DOTweenMiniIcon.png.meta
+|   |           Footer.png
+|   |           Footer.png.meta
+|   |           Footer_dark.png
+|   |           Footer_dark.png.meta
+|   |           Header.jpg
+|   |           Header.jpg.meta
+|   |           
+|   \---Modules
+|           DOTweenModuleAudio.cs
+|           DOTweenModuleAudio.cs.meta
+|           DOTweenModuleEPOOutline.cs
+|           DOTweenModuleEPOOutline.cs.meta
+|           DOTweenModulePhysics.cs
+|           DOTweenModulePhysics.cs.meta
+|           DOTweenModulePhysics2D.cs
+|           DOTweenModulePhysics2D.cs.meta
+|           DOTweenModuleSprite.cs
+|           DOTweenModuleSprite.cs.meta
+|           DOTweenModuleUI.cs
+|           DOTweenModuleUI.cs.meta
+|           DOTweenModuleUIToolkit.cs
+|           DOTweenModuleUIToolkit.cs.meta
+|           DOTweenModuleUnityVersion.cs
+|           DOTweenModuleUnityVersion.cs.meta
+|           DOTweenModuleUtils.cs
+|           DOTweenModuleUtils.cs.meta
+|           
++---Hovl Studio
+|   |   Magic effects pack.meta
+|   |   
+|   \---Magic effects pack
+|       |   Demo scene.meta
+|       |   Materials.meta
+|       |   Models.meta
+|       |   Prefabs.meta
+|       |   Settings.meta
+|       |   Textures.meta
+|       |   
+|       +---Demo scene
+|       |       Demo fire 1Settings.lighting
+|       |       Demo fire 1Settings.lighting.meta
+|       |       LightingData.asset
+|       |       LightingData.asset.meta
+|       |       Lightmap-0_comp_dir.png
+|       |       Lightmap-0_comp_dir.png.meta
+|       |       Lightmap-0_comp_light.exr
+|       |       Lightmap-0_comp_light.exr.meta
+|       |       Magic effects demo.unity
+|       |       Magic effects demo.unity.meta
+|       |       Magic effects second demo.unity
+|       |       Magic effects second demo.unity.meta
+|       |       Readme.txt
+|       |       Readme.txt.meta
+|       |       ReflectionProbe-0.exr
+|       |       ReflectionProbe-0.exr.meta
+|       |       ReflectionProbe-1.exr
+|       |       ReflectionProbe-1.exr.meta
+|       |       
+|       +---Materials
+|       |       Additive.mat
+|       |       Additive.mat.meta
+|       |       Arrow1.mat
+|       |       Arrow1.mat.meta
+|       |       Circle.mat
+|       |       Circle.mat.meta
+|       |       Circle2.mat
+|       |       Circle2.mat.meta
+|       |       Crack.mat
+|       |       Crack.mat.meta
+|       |       CraterFree1.mat
+|       |       CraterFree1.mat.meta
+|       |       Crystal1.mat
+|       |       Crystal1.mat.meta
+|       |       CrystalFree1.mat
+|       |       CrystalFree1.mat.meta
+|       |       DistortionPoint.mat
+|       |       DistortionPoint.mat.meta
+|       |       Electro.mat
+|       |       Electro.mat.meta
+|       |       Flare.mat
+|       |       Flare.mat.meta
+|       |       Flash.mat
+|       |       Flash.mat.meta
+|       |       FlashFree1.mat
+|       |       FlashFree1.mat.meta
+|       |       FlashFree2.mat
+|       |       FlashFree2.mat.meta
+|       |       FlashFree3.mat
+|       |       FlashFree3.mat.meta
+|       |       Floor3.mat
+|       |       Floor3.mat.meta
+|       |       GlowFree1.mat
+|       |       GlowFree1.mat.meta
+|       |       Gradient.mat
+|       |       Gradient.mat.meta
+|       |       Gradient2.mat
+|       |       Gradient2.mat.meta
+|       |       Heart.mat
+|       |       Heart.mat.meta
+|       |       MagicCircle.mat
+|       |       MagicCircle.mat.meta
+|       |       MagicCircle2.mat
+|       |       MagicCircle2.mat.meta
+|       |       Mask1.mat
+|       |       Mask1.mat.meta
+|       |       Point.mat
+|       |       Point.mat.meta
+|       |       ProjectileFree1.mat
+|       |       ProjectileFree1.mat.meta
+|       |       Slash.mat
+|       |       Slash.mat.meta
+|       |       Smoke26.mat
+|       |       Smoke26.mat.meta
+|       |       SmokeFree1.mat
+|       |       SmokeFree1.mat.meta
+|       |       Snowflake.mat
+|       |       Snowflake.mat.meta
+|       |       Star.mat
+|       |       Star.mat.meta
+|       |       Stone.mat
+|       |       Stone.mat.meta
+|       |       TechCircle.mat
+|       |       TechCircle.mat.meta
+|       |       TechCircle2.mat
+|       |       TechCircle2.mat.meta
+|       |       Trail67.mat
+|       |       Trail67.mat.meta
+|       |       VFXatlas.psd
+|       |       VFXatlas.psd.meta
+|       |       
+|       +---Models
+|       |       Crystal1.fbx
+|       |       Crystal1.fbx.meta
+|       |       Cylinder.fbx
+|       |       Cylinder.fbx.meta
+|       |       Slash.fbx
+|       |       Slash.fbx.meta
+|       |       Torus1.fbx
+|       |       Torus1.fbx.meta
+|       |       
+|       +---Prefabs
+|       |   |   AoE effects.meta
+|       |   |   Character auras.meta
+|       |   |   Environment.meta
+|       |   |   Hits and explosions.meta
+|       |   |   Magic circles.meta
+|       |   |   Magic shields.meta
+|       |   |   Portals.meta
+|       |   |   Slash effects.meta
+|       |   |   Smoke effects.meta
+|       |   |   Sparks.meta
+|       |   |   
+|       |   +---AoE effects
+|       |   |       AoE slash blue.prefab
+|       |   |       AoE slash blue.prefab.meta
+|       |   |       AoE slash green.prefab
+|       |   |       AoE slash green.prefab.meta
+|       |   |       AoE slash orange.prefab
+|       |   |       AoE slash orange.prefab.meta
+|       |   |       Crystals crossfade 2.prefab
+|       |   |       Crystals crossfade 2.prefab.meta
+|       |   |       Crystals crossfade.prefab
+|       |   |       Crystals crossfade.prefab.meta
+|       |   |       Crystals front attack.prefab
+|       |   |       Crystals front attack.prefab.meta
+|       |   |       Ground AOE explosion.prefab
+|       |   |       Ground AOE explosion.prefab.meta
+|       |   |       Laser AOE.prefab
+|       |   |       Laser AOE.prefab.meta
+|       |   |       Meteors AOE.prefab
+|       |   |       Meteors AOE.prefab.meta
+|       |   |       Plexus AoE.prefab
+|       |   |       Plexus AoE.prefab.meta
+|       |   |       Red energy explosion.prefab
+|       |   |       Red energy explosion.prefab.meta
+|       |   |       Smoke AOE explosion.prefab
+|       |   |       Smoke AOE explosion.prefab.meta
+|       |   |       Snow AOE.prefab
+|       |   |       Snow AOE.prefab.meta
+|       |   |       
+|       |   +---Character auras
+|       |   |       Buff.prefab
+|       |   |       Buff.prefab.meta
+|       |   |       Debuff.prefab
+|       |   |       Debuff.prefab.meta
+|       |   |       Healing.prefab
+|       |   |       Healing.prefab.meta
+|       |   |       Lightning aura.prefab
+|       |   |       Lightning aura.prefab.meta
+|       |   |       Love aura.prefab
+|       |   |       Love aura.prefab.meta
+|       |   |       Plexus.prefab
+|       |   |       Plexus.prefab.meta
+|       |   |       Star aura.prefab
+|       |   |       Star aura.prefab.meta
+|       |   |       
+|       |   +---Environment
+|       |   |       Crystal effect blue.prefab
+|       |   |       Crystal effect blue.prefab.meta
+|       |   |       Crystal effect green.prefab
+|       |   |       Crystal effect green.prefab.meta
+|       |   |       Crystal effect red.prefab
+|       |   |       Crystal effect red.prefab.meta
+|       |   |       Teleport.prefab
+|       |   |       Teleport.prefab.meta
+|       |   |       
+|       |   +---Hits and explosions
+|       |   |       Electro hit.prefab
+|       |   |       Electro hit.prefab.meta
+|       |   |       Explosion.prefab
+|       |   |       Explosion.prefab.meta
+|       |   |       Green hit.prefab
+|       |   |       Green hit.prefab.meta
+|       |   |       Holy hit.prefab
+|       |   |       Holy hit.prefab.meta
+|       |   |       Love hit.prefab
+|       |   |       Love hit.prefab.meta
+|       |   |       Snow hit.prefab
+|       |   |       Snow hit.prefab.meta
+|       |   |       Star hit.prefab
+|       |   |       Star hit.prefab.meta
+|       |   |       Stones hit.prefab
+|       |   |       Stones hit.prefab.meta
+|       |   |       
+|       |   +---Magic circles
+|       |   |       Freeze circle.prefab
+|       |   |       Freeze circle.prefab.meta
+|       |   |       Healing circle.prefab
+|       |   |       Healing circle.prefab.meta
+|       |   |       Magic circle 2.prefab
+|       |   |       Magic circle 2.prefab.meta
+|       |   |       Magic circle.prefab
+|       |   |       Magic circle.prefab.meta
+|       |   |       
+|       |   +---Magic shields
+|       |   |       Magic shield blue.prefab
+|       |   |       Magic shield blue.prefab.meta
+|       |   |       Magic shield pink.prefab
+|       |   |       Magic shield pink.prefab.meta
+|       |   |       Magic shield yellow.prefab
+|       |   |       Magic shield yellow.prefab.meta
+|       |   |       
+|       |   +---Portals
+|       |   |       Portal blue.prefab
+|       |   |       Portal blue.prefab.meta
+|       |   |       Portal green.prefab
+|       |   |       Portal green.prefab.meta
+|       |   |       Portal red.prefab
+|       |   |       Portal red.prefab.meta
+|       |   |       Portal yellow.prefab
+|       |   |       Portal yellow.prefab.meta
+|       |   |       
+|       |   +---Slash effects
+|       |   |       Charge slash blue.prefab
+|       |   |       Charge slash blue.prefab.meta
+|       |   |       Charge slash purple.prefab
+|       |   |       Charge slash purple.prefab.meta
+|       |   |       Charge slash red.prefab
+|       |   |       Charge slash red.prefab.meta
+|       |   |       Electro slash.prefab
+|       |   |       Electro slash.prefab.meta
+|       |   |       Snow slash.prefab
+|       |   |       Snow slash.prefab.meta
+|       |   |       Stone slash.prefab
+|       |   |       Stone slash.prefab.meta
+|       |   |       
+|       |   +---Smoke effects
+|       |   |       Dust ground.prefab
+|       |   |       Dust ground.prefab.meta
+|       |   |       Dust hemisphere loop.prefab
+|       |   |       Dust hemisphere loop.prefab.meta
+|       |   |       Dust loop.prefab
+|       |   |       Dust loop.prefab.meta
+|       |   |       Dust puff.prefab
+|       |   |       Dust puff.prefab.meta
+|       |   |       Smoke ground.prefab
+|       |   |       Smoke ground.prefab.meta
+|       |   |       Smoke hemisphere loop.prefab
+|       |   |       Smoke hemisphere loop.prefab.meta
+|       |   |       Smoke loop.prefab
+|       |   |       Smoke loop.prefab.meta
+|       |   |       Smoke puff.prefab
+|       |   |       Smoke puff.prefab.meta
+|       |   |       Smoke vortex.prefab
+|       |   |       Smoke vortex.prefab.meta
+|       |   |       
+|       |   \---Sparks
+|       |           Sparks blue.prefab
+|       |           Sparks blue.prefab.meta
+|       |           Sparks explode blue.prefab
+|       |           Sparks explode blue.prefab.meta
+|       |           Sparks explode green.prefab
+|       |           Sparks explode green.prefab.meta
+|       |           Sparks explode pink.prefab
+|       |           Sparks explode pink.prefab.meta
+|       |           Sparks explode red.prefab
+|       |           Sparks explode red.prefab.meta
+|       |           Sparks explode white.prefab
+|       |           Sparks explode white.prefab.meta
+|       |           Sparks explode yellow.prefab
+|       |           Sparks explode yellow.prefab.meta
+|       |           Sparks flashing blue.prefab
+|       |           Sparks flashing blue.prefab.meta
+|       |           Sparks flashing green.prefab
+|       |           Sparks flashing green.prefab.meta
+|       |           Sparks flashing pink.prefab
+|       |           Sparks flashing pink.prefab.meta
+|       |           Sparks flashing red.prefab
+|       |           Sparks flashing red.prefab.meta
+|       |           Sparks flashing white.prefab
+|       |           Sparks flashing white.prefab.meta
+|       |           Sparks flashing yellow.prefab
+|       |           Sparks flashing yellow.prefab.meta
+|       |           Sparks green.prefab
+|       |           Sparks green.prefab.meta
+|       |           Sparks pink.prefab
+|       |           Sparks pink.prefab.meta
+|       |           Sparks red.prefab
+|       |           Sparks red.prefab.meta
+|       |           Sparks white.prefab
+|       |           Sparks white.prefab.meta
+|       |           Sparks yellow.prefab
+|       |           Sparks yellow.prefab.meta
+|       |           
+|       +---Settings
+|       |       PP low.asset
+|       |       PP low.asset.meta
+|       |       
+|       \---Textures
+|               Arrow1.png
+|               Arrow1.png.meta
+|               Circle.png
+|               Circle.png.meta
+|               Circle2.png
+|               Circle2.png.meta
+|               Concrete slab.png
+|               Concrete slab.png.meta
+|               Concrete slab_Height.png
+|               Concrete slab_Height.png.meta
+|               Concrete slab_MetallicSmoothness.png
+|               Concrete slab_MetallicSmoothness.png.meta
+|               Concrete slab_Normal.png
+|               Concrete slab_Normal.png.meta
+|               Crack.png
+|               Crack.png.meta
+|               CraterFree1.png
+|               CraterFree1.png.meta
+|               Crystal1_Base.png
+|               Crystal1_Base.png.meta
+|               Crystal1_MS.png
+|               Crystal1_MS.png.meta
+|               Crystal1_Normal.png
+|               Crystal1_Normal.png.meta
+|               CrystalFree1.png
+|               CrystalFree1.png.meta
+|               Electro.png
+|               Electro.png.meta
+|               Flare.png
+|               Flare.png.meta
+|               Flash.png
+|               Flash.png.meta
+|               FlashFree1.png
+|               FlashFree1.png.meta
+|               FlashFree2.png
+|               FlashFree2.png.meta
+|               FlashFree3.png
+|               FlashFree3.png.meta
+|               GlowFree1.png
+|               GlowFree1.png.meta
+|               Gradient.png
+|               Gradient.png.meta
+|               Gradient2.png
+|               Gradient2.png.meta
+|               Heart.png
+|               Heart.png.meta
+|               MagicCircle.png
+|               MagicCircle.png.meta
+|               MagicCircle2.png
+|               MagicCircle2.png.meta
+|               Mask1.png
+|               Mask1.png.meta
+|               Point1.png
+|               Point1.png.meta
+|               Point1n.png
+|               Point1n.png.meta
+|               ProjectileFree1.png
+|               ProjectileFree1.png.meta
+|               Slash.png
+|               Slash.png.meta
+|               Smoke26.png
+|               Smoke26.png.meta
+|               SmokeFree1.png
+|               SmokeFree1.png.meta
+|               Snowflake.png
+|               Snowflake.png.meta
+|               Splat.png
+|               Splat.png.meta
+|               Star.png
+|               Star.png.meta
+|               Stone.png
+|               Stone.png.meta
+|               TechCircle.png
+|               TechCircle.png.meta
+|               TechCircle2.png
+|               TechCircle2.png.meta
+|               Trail67.png
+|               Trail67.png.meta
+|               
++---KayKit_Adventurers_2.0_FREE
+|   |   Animations.meta
+|   |   Assets.meta
+|   |   Characters.meta
+|   |   contents.png
+|   |   contents.png.meta
+|   |   License.txt
+|   |   License.txt.meta
+|   |   More KayKit Assets.url
+|   |   More KayKit Assets.url.meta
+|   |   Patreon.url
+|   |   Patreon.url.meta
+|   |   Samples.meta
+|   |   Textures.meta
+|   |   
+|   +---Animations
+|   |   |   Click here for more Free Animations.url
+|   |   |   Click here for more Free Animations.url.meta
+|   |   |   fbx.meta
+|   |   |   gltf.meta
+|   |   |   
+|   |   +---fbx
+|   |   |   |   Rig_Medium.meta
+|   |   |   |   
+|   |   |   \---Rig_Medium
+|   |   |           Rig_Medium_General.fbx
+|   |   |           Rig_Medium_General.fbx.meta
+|   |   |           Rig_Medium_MovementBasic.fbx
+|   |   |           Rig_Medium_MovementBasic.fbx.meta
+|   |   |           
+|   |   \---gltf
+|   |       |   Rig_Medium.meta
+|   |       |   
+|   |       \---Rig_Medium
+|   |               Rig_Medium_General.glb
+|   |               Rig_Medium_General.glb.meta
+|   |               Rig_Medium_MovementBasic.glb
+|   |               Rig_Medium_MovementBasic.glb.meta
+|   |               
+|   +---Assets
+|   |   |   fbx(unity).meta
+|   |   |   fbx.meta
+|   |   |   gltf.meta
+|   |   |   obj.meta
+|   |   |   
+|   |   +---fbx
+|   |   |       arrow_bow.fbx
+|   |   |       arrow_bow.fbx.meta
+|   |   |       arrow_bow_bundle.fbx
+|   |   |       arrow_bow_bundle.fbx.meta
+|   |   |       arrow_crossbow.fbx
+|   |   |       arrow_crossbow.fbx.meta
+|   |   |       arrow_crossbow_bundle.fbx
+|   |   |       arrow_crossbow_bundle.fbx.meta
+|   |   |       axe_1handed.fbx
+|   |   |       axe_1handed.fbx.meta
+|   |   |       axe_2handed.fbx
+|   |   |       axe_2handed.fbx.meta
+|   |   |       barbarian_texture.png
+|   |   |       barbarian_texture.png.meta
+|   |   |       bow.fbx
+|   |   |       bow.fbx.meta
+|   |   |       bow_withString.fbx
+|   |   |       bow_withString.fbx.meta
+|   |   |       crossbow_1handed.fbx
+|   |   |       crossbow_1handed.fbx.meta
+|   |   |       crossbow_2handed.fbx
+|   |   |       crossbow_2handed.fbx.meta
+|   |   |       dagger.fbx
+|   |   |       dagger.fbx.meta
+|   |   |       knight_texture.png
+|   |   |       knight_texture.png.meta
+|   |   |       mage_texture.png
+|   |   |       mage_texture.png.meta
+|   |   |       mug_empty.fbx
+|   |   |       mug_empty.fbx.meta
+|   |   |       mug_full.fbx
+|   |   |       mug_full.fbx.meta
+|   |   |       quiver.fbx
+|   |   |       quiver.fbx.meta
+|   |   |       ranger_texture.png
+|   |   |       ranger_texture.png.meta
+|   |   |       rogue_texture.png
+|   |   |       rogue_texture.png.meta
+|   |   |       shield_badge.fbx
+|   |   |       shield_badge.fbx.meta
+|   |   |       shield_badge_color.fbx
+|   |   |       shield_badge_color.fbx.meta
+|   |   |       shield_round.fbx
+|   |   |       shield_round.fbx.meta
+|   |   |       shield_round_barbarian.fbx
+|   |   |       shield_round_barbarian.fbx.meta
+|   |   |       shield_round_color.fbx
+|   |   |       shield_round_color.fbx.meta
+|   |   |       shield_spikes.fbx
+|   |   |       shield_spikes.fbx.meta
+|   |   |       shield_spikes_color.fbx
+|   |   |       shield_spikes_color.fbx.meta
+|   |   |       shield_square.fbx
+|   |   |       shield_square.fbx.meta
+|   |   |       shield_square_color.fbx
+|   |   |       shield_square_color.fbx.meta
+|   |   |       smokebomb.fbx
+|   |   |       smokebomb.fbx.meta
+|   |   |       spellbook_closed.fbx
+|   |   |       spellbook_closed.fbx.meta
+|   |   |       spellbook_open.fbx
+|   |   |       spellbook_open.fbx.meta
+|   |   |       staff.fbx
+|   |   |       staff.fbx.meta
+|   |   |       sword_1handed.fbx
+|   |   |       sword_1handed.fbx.meta
+|   |   |       sword_2handed.fbx
+|   |   |       sword_2handed.fbx.meta
+|   |   |       sword_2handed_color.fbx
+|   |   |       sword_2handed_color.fbx.meta
+|   |   |       wand.fbx
+|   |   |       wand.fbx.meta
+|   |   |       
+|   |   +---fbx(unity)
+|   |   |       arrow_bow.fbx
+|   |   |       arrow_bow.fbx.meta
+|   |   |       arrow_bow_bundle.fbx
+|   |   |       arrow_bow_bundle.fbx.meta
+|   |   |       arrow_crossbow.fbx
+|   |   |       arrow_crossbow.fbx.meta
+|   |   |       arrow_crossbow_bundle.fbx
+|   |   |       arrow_crossbow_bundle.fbx.meta
+|   |   |       axe_1handed.fbx
+|   |   |       axe_1handed.fbx.meta
+|   |   |       axe_2handed.fbx
+|   |   |       axe_2handed.fbx.meta
+|   |   |       barbarian_texture.png
+|   |   |       barbarian_texture.png.meta
+|   |   |       bow.fbx
+|   |   |       bow.fbx.meta
+|   |   |       bow_withString.fbx
+|   |   |       bow_withString.fbx.meta
+|   |   |       crossbow_1handed.fbx
+|   |   |       crossbow_1handed.fbx.meta
+|   |   |       crossbow_2handed.fbx
+|   |   |       crossbow_2handed.fbx.meta
+|   |   |       dagger.fbx
+|   |   |       dagger.fbx.meta
+|   |   |       knight_texture.png
+|   |   |       knight_texture.png.meta
+|   |   |       mage_texture.png
+|   |   |       mage_texture.png.meta
+|   |   |       mug_empty.fbx
+|   |   |       mug_empty.fbx.meta
+|   |   |       mug_full.fbx
+|   |   |       mug_full.fbx.meta
+|   |   |       quiver.fbx
+|   |   |       quiver.fbx.meta
+|   |   |       ranger_texture.png
+|   |   |       ranger_texture.png.meta
+|   |   |       rogue_texture.png
+|   |   |       rogue_texture.png.meta
+|   |   |       shield_badge.fbx
+|   |   |       shield_badge.fbx.meta
+|   |   |       shield_badge_color.fbx
+|   |   |       shield_badge_color.fbx.meta
+|   |   |       shield_round.fbx
+|   |   |       shield_round.fbx.meta
+|   |   |       shield_round_barbarian.fbx
+|   |   |       shield_round_barbarian.fbx.meta
+|   |   |       shield_round_color.fbx
+|   |   |       shield_round_color.fbx.meta
+|   |   |       shield_spikes.fbx
+|   |   |       shield_spikes.fbx.meta
+|   |   |       shield_spikes_color.fbx
+|   |   |       shield_spikes_color.fbx.meta
+|   |   |       shield_square.fbx
+|   |   |       shield_square.fbx.meta
+|   |   |       shield_square_color.fbx
+|   |   |       shield_square_color.fbx.meta
+|   |   |       smokebomb.fbx
+|   |   |       smokebomb.fbx.meta
+|   |   |       spellbook_closed.fbx
+|   |   |       spellbook_closed.fbx.meta
+|   |   |       spellbook_open.fbx
+|   |   |       spellbook_open.fbx.meta
+|   |   |       staff.fbx
+|   |   |       staff.fbx.meta
+|   |   |       sword_1handed.fbx
+|   |   |       sword_1handed.fbx.meta
+|   |   |       sword_2handed.fbx
+|   |   |       sword_2handed.fbx.meta
+|   |   |       sword_2handed_color.fbx
+|   |   |       sword_2handed_color.fbx.meta
+|   |   |       wand.fbx
+|   |   |       wand.fbx.meta
+|   |   |       
+|   |   +---gltf
+|   |   |       arrow_bow.bin
+|   |   |       arrow_bow.bin.meta
+|   |   |       arrow_bow.gltf
+|   |   |       arrow_bow.gltf.meta
+|   |   |       arrow_bow_bundle.bin
+|   |   |       arrow_bow_bundle.bin.meta
+|   |   |       arrow_bow_bundle.gltf
+|   |   |       arrow_bow_bundle.gltf.meta
+|   |   |       arrow_crossbow.bin
+|   |   |       arrow_crossbow.bin.meta
+|   |   |       arrow_crossbow.gltf
+|   |   |       arrow_crossbow.gltf.meta
+|   |   |       arrow_crossbow_bundle.bin
+|   |   |       arrow_crossbow_bundle.bin.meta
+|   |   |       arrow_crossbow_bundle.gltf
+|   |   |       arrow_crossbow_bundle.gltf.meta
+|   |   |       axe_1handed.bin
+|   |   |       axe_1handed.bin.meta
+|   |   |       axe_1handed.gltf
+|   |   |       axe_1handed.gltf.meta
+|   |   |       axe_2handed.bin
+|   |   |       axe_2handed.bin.meta
+|   |   |       axe_2handed.gltf
+|   |   |       axe_2handed.gltf.meta
+|   |   |       barbarian_texture.png
+|   |   |       barbarian_texture.png.meta
+|   |   |       bow.bin
+|   |   |       bow.bin.meta
+|   |   |       bow.gltf
+|   |   |       bow.gltf.meta
+|   |   |       bow_withString.bin
+|   |   |       bow_withString.bin.meta
+|   |   |       bow_withString.gltf
+|   |   |       bow_withString.gltf.meta
+|   |   |       crossbow_1handed.bin
+|   |   |       crossbow_1handed.bin.meta
+|   |   |       crossbow_1handed.gltf
+|   |   |       crossbow_1handed.gltf.meta
+|   |   |       crossbow_2handed.bin
+|   |   |       crossbow_2handed.bin.meta
+|   |   |       crossbow_2handed.gltf
+|   |   |       crossbow_2handed.gltf.meta
+|   |   |       dagger.bin
+|   |   |       dagger.bin.meta
+|   |   |       dagger.gltf
+|   |   |       dagger.gltf.meta
+|   |   |       knight_texture.png
+|   |   |       knight_texture.png.meta
+|   |   |       mage_texture.png
+|   |   |       mage_texture.png.meta
+|   |   |       mug_empty.bin
+|   |   |       mug_empty.bin.meta
+|   |   |       mug_empty.gltf
+|   |   |       mug_empty.gltf.meta
+|   |   |       mug_full.bin
+|   |   |       mug_full.bin.meta
+|   |   |       mug_full.gltf
+|   |   |       mug_full.gltf.meta
+|   |   |       quiver.bin
+|   |   |       quiver.bin.meta
+|   |   |       quiver.gltf
+|   |   |       quiver.gltf.meta
+|   |   |       ranger_texture.png
+|   |   |       ranger_texture.png.meta
+|   |   |       rogue_texture.png
+|   |   |       rogue_texture.png.meta
+|   |   |       shield_badge.bin
+|   |   |       shield_badge.bin.meta
+|   |   |       shield_badge.gltf
+|   |   |       shield_badge.gltf.meta
+|   |   |       shield_badge_color.bin
+|   |   |       shield_badge_color.bin.meta
+|   |   |       shield_badge_color.gltf
+|   |   |       shield_badge_color.gltf.meta
+|   |   |       shield_round.bin
+|   |   |       shield_round.bin.meta
+|   |   |       shield_round.gltf
+|   |   |       shield_round.gltf.meta
+|   |   |       shield_round_barbarian.bin
+|   |   |       shield_round_barbarian.bin.meta
+|   |   |       shield_round_barbarian.gltf
+|   |   |       shield_round_barbarian.gltf.meta
+|   |   |       shield_round_color.bin
+|   |   |       shield_round_color.bin.meta
+|   |   |       shield_round_color.gltf
+|   |   |       shield_round_color.gltf.meta
+|   |   |       shield_spikes.bin
+|   |   |       shield_spikes.bin.meta
+|   |   |       shield_spikes.gltf
+|   |   |       shield_spikes.gltf.meta
+|   |   |       shield_spikes_color.bin
+|   |   |       shield_spikes_color.bin.meta
+|   |   |       shield_spikes_color.gltf
+|   |   |       shield_spikes_color.gltf.meta
+|   |   |       shield_square.bin
+|   |   |       shield_square.bin.meta
+|   |   |       shield_square.gltf
+|   |   |       shield_square.gltf.meta
+|   |   |       shield_square_color.bin
+|   |   |       shield_square_color.bin.meta
+|   |   |       shield_square_color.gltf
+|   |   |       shield_square_color.gltf.meta
+|   |   |       smokebomb.bin
+|   |   |       smokebomb.bin.meta
+|   |   |       smokebomb.gltf
+|   |   |       smokebomb.gltf.meta
+|   |   |       spellbook_closed.bin
+|   |   |       spellbook_closed.bin.meta
+|   |   |       spellbook_closed.gltf
+|   |   |       spellbook_closed.gltf.meta
+|   |   |       spellbook_open.bin
+|   |   |       spellbook_open.bin.meta
+|   |   |       spellbook_open.gltf
+|   |   |       spellbook_open.gltf.meta
+|   |   |       staff.bin
+|   |   |       staff.bin.meta
+|   |   |       staff.gltf
+|   |   |       staff.gltf.meta
+|   |   |       sword_1handed.bin
+|   |   |       sword_1handed.bin.meta
+|   |   |       sword_1handed.gltf
+|   |   |       sword_1handed.gltf.meta
+|   |   |       sword_2handed.bin
+|   |   |       sword_2handed.bin.meta
+|   |   |       sword_2handed.gltf
+|   |   |       sword_2handed.gltf.meta
+|   |   |       sword_2handed_color.bin
+|   |   |       sword_2handed_color.bin.meta
+|   |   |       sword_2handed_color.gltf
+|   |   |       sword_2handed_color.gltf.meta
+|   |   |       wand.bin
+|   |   |       wand.bin.meta
+|   |   |       wand.gltf
+|   |   |       wand.gltf.meta
+|   |   |       
+|   |   \---obj
+|   |           arrow_bow.mtl
+|   |           arrow_bow.mtl.meta
+|   |           arrow_bow.obj
+|   |           arrow_bow.obj.meta
+|   |           arrow_bow_bundle.mtl
+|   |           arrow_bow_bundle.mtl.meta
+|   |           arrow_bow_bundle.obj
+|   |           arrow_bow_bundle.obj.meta
+|   |           arrow_crossbow.mtl
+|   |           arrow_crossbow.mtl.meta
+|   |           arrow_crossbow.obj
+|   |           arrow_crossbow.obj.meta
+|   |           arrow_crossbow_bundle.mtl
+|   |           arrow_crossbow_bundle.mtl.meta
+|   |           arrow_crossbow_bundle.obj
+|   |           arrow_crossbow_bundle.obj.meta
+|   |           axe_1handed.mtl
+|   |           axe_1handed.mtl.meta
+|   |           axe_1handed.obj
+|   |           axe_1handed.obj.meta
+|   |           axe_2handed.mtl
+|   |           axe_2handed.mtl.meta
+|   |           axe_2handed.obj
+|   |           axe_2handed.obj.meta
+|   |           barbarian_texture.png
+|   |           barbarian_texture.png.meta
+|   |           bow.mtl
+|   |           bow.mtl.meta
+|   |           bow.obj
+|   |           bow.obj.meta
+|   |           bow_withString.mtl
+|   |           bow_withString.mtl.meta
+|   |           bow_withString.obj
+|   |           bow_withString.obj.meta
+|   |           crossbow_1handed.mtl
+|   |           crossbow_1handed.mtl.meta
+|   |           crossbow_1handed.obj
+|   |           crossbow_1handed.obj.meta
+|   |           crossbow_2handed.mtl
+|   |           crossbow_2handed.mtl.meta
+|   |           crossbow_2handed.obj
+|   |           crossbow_2handed.obj.meta
+|   |           dagger.mtl
+|   |           dagger.mtl.meta
+|   |           dagger.obj
+|   |           dagger.obj.meta
+|   |           knight_texture.png
+|   |           knight_texture.png.meta
+|   |           mage_texture.png
+|   |           mage_texture.png.meta
+|   |           mug_empty.mtl
+|   |           mug_empty.mtl.meta
+|   |           mug_empty.obj
+|   |           mug_empty.obj.meta
+|   |           mug_full.mtl
+|   |           mug_full.mtl.meta
+|   |           mug_full.obj
+|   |           mug_full.obj.meta
+|   |           quiver.mtl
+|   |           quiver.mtl.meta
+|   |           quiver.obj
+|   |           quiver.obj.meta
+|   |           ranger_texture.png
+|   |           ranger_texture.png.meta
+|   |           rogue_texture.png
+|   |           rogue_texture.png.meta
+|   |           shield_badge.mtl
+|   |           shield_badge.mtl.meta
+|   |           shield_badge.obj
+|   |           shield_badge.obj.meta
+|   |           shield_badge_color.mtl
+|   |           shield_badge_color.mtl.meta
+|   |           shield_badge_color.obj
+|   |           shield_badge_color.obj.meta
+|   |           shield_round.mtl
+|   |           shield_round.mtl.meta
+|   |           shield_round.obj
+|   |           shield_round.obj.meta
+|   |           shield_round_barbarian.mtl
+|   |           shield_round_barbarian.mtl.meta
+|   |           shield_round_barbarian.obj
+|   |           shield_round_barbarian.obj.meta
+|   |           shield_round_color.mtl
+|   |           shield_round_color.mtl.meta
+|   |           shield_round_color.obj
+|   |           shield_round_color.obj.meta
+|   |           shield_spikes.mtl
+|   |           shield_spikes.mtl.meta
+|   |           shield_spikes.obj
+|   |           shield_spikes.obj.meta
+|   |           shield_spikes_color.mtl
+|   |           shield_spikes_color.mtl.meta
+|   |           shield_spikes_color.obj
+|   |           shield_spikes_color.obj.meta
+|   |           shield_square.mtl
+|   |           shield_square.mtl.meta
+|   |           shield_square.obj
+|   |           shield_square.obj.meta
+|   |           shield_square_color.mtl
+|   |           shield_square_color.mtl.meta
+|   |           shield_square_color.obj
+|   |           shield_square_color.obj.meta
+|   |           smokebomb.mtl
+|   |           smokebomb.mtl.meta
+|   |           smokebomb.obj
+|   |           smokebomb.obj.meta
+|   |           spellbook_closed.mtl
+|   |           spellbook_closed.mtl.meta
+|   |           spellbook_closed.obj
+|   |           spellbook_closed.obj.meta
+|   |           spellbook_open.mtl
+|   |           spellbook_open.mtl.meta
+|   |           spellbook_open.obj
+|   |           spellbook_open.obj.meta
+|   |           staff.mtl
+|   |           staff.mtl.meta
+|   |           staff.obj
+|   |           staff.obj.meta
+|   |           sword_1handed.mtl
+|   |           sword_1handed.mtl.meta
+|   |           sword_1handed.obj
+|   |           sword_1handed.obj.meta
+|   |           sword_2handed.mtl
+|   |           sword_2handed.mtl.meta
+|   |           sword_2handed.obj
+|   |           sword_2handed.obj.meta
+|   |           sword_2handed_color.mtl
+|   |           sword_2handed_color.mtl.meta
+|   |           sword_2handed_color.obj
+|   |           sword_2handed_color.obj.meta
+|   |           wand.mtl
+|   |           wand.mtl.meta
+|   |           wand.obj
+|   |           wand.obj.meta
+|   |           
+|   +---Characters
+|   |   |   fbx.meta
+|   |   |   gltf.meta
+|   |   |   
+|   |   +---fbx
+|   |   |       Barbarian.fbx
+|   |   |       Barbarian.fbx.meta
+|   |   |       barbarian_texture.png
+|   |   |       barbarian_texture.png.meta
+|   |   |       Knight.fbx
+|   |   |       Knight.fbx.meta
+|   |   |       knight_texture.png
+|   |   |       knight_texture.png.meta
+|   |   |       Mage.fbx
+|   |   |       Mage.fbx.meta
+|   |   |       mage_texture.png
+|   |   |       mage_texture.png.meta
+|   |   |       Ranger.fbx
+|   |   |       Ranger.fbx.meta
+|   |   |       ranger_texture.png
+|   |   |       ranger_texture.png.meta
+|   |   |       Rogue.fbx
+|   |   |       Rogue.fbx.meta
+|   |   |       Rogue_Hooded.fbx
+|   |   |       Rogue_Hooded.fbx.meta
+|   |   |       rogue_texture.png
+|   |   |       rogue_texture.png.meta
+|   |   |       
+|   |   \---gltf
+|   |           Barbarian.glb
+|   |           Barbarian.glb.meta
+|   |           barbarian_texture.png
+|   |           barbarian_texture.png.meta
+|   |           Knight.glb
+|   |           Knight.glb.meta
+|   |           knight_texture.png
+|   |           knight_texture.png.meta
+|   |           Mage.glb
+|   |           Mage.glb.meta
+|   |           mage_texture.png
+|   |           mage_texture.png.meta
+|   |           Ranger.glb
+|   |           Ranger.glb.meta
+|   |           ranger_texture.png
+|   |           ranger_texture.png.meta
+|   |           Rogue.glb
+|   |           Rogue.glb.meta
+|   |           Rogue_Hooded.glb
+|   |           Rogue_Hooded.glb.meta
+|   |           rogue_texture.png
+|   |           rogue_texture.png.meta
+|   |           
+|   +---Samples
+|   |       barbarian.png
+|   |       barbarian.png.meta
+|   |       barbarian_Large.png
+|   |       barbarian_Large.png.meta
+|   |       druid.png
+|   |       druid.png.meta
+|   |       engineer.png
+|   |       engineer.png.meta
+|   |       knight.png
+|   |       knight.png.meta
+|   |       mage.png
+|   |       mage.png.meta
+|   |       ranger.png
+|   |       ranger.png.meta
+|   |       rogue.png
+|   |       rogue.png.meta
+|   |       
+|   \---Textures
+|           barbarian_texture.png
+|           barbarian_texture.png.meta
+|           knight_texture.png
+|           knight_texture.png.meta
+|           mage_texture.png
+|           mage_texture.png.meta
+|           ranger_texture.png
+|           ranger_texture.png.meta
+|           rogue_texture.png
+|           rogue_texture.png.meta
+|           
++---KayKit_Character_Animations_1.1
+|   |   Animations.meta
+|   |   Discord Server.url
+|   |   Discord Server.url.meta
+|   |   License.txt
+|   |   License.txt.meta
+|   |   Mannequin Character.meta
+|   |   More KayKit Assets.url
+|   |   More KayKit Assets.url.meta
+|   |   Patreon.url
+|   |   Patreon.url.meta
+|   |   
+|   +---Animations
+|   |   |   fbx.meta
+|   |   |   gltf.meta
+|   |   |   
+|   |   +---fbx
+|   |   |   |   Rig_Large.meta
+|   |   |   |   Rig_Medium.meta
+|   |   |   |   
+|   |   |   +---Rig_Large
+|   |   |   |       Rig_Large_CombatMelee.fbx
+|   |   |   |       Rig_Large_CombatMelee.fbx.meta
+|   |   |   |       Rig_Large_General.fbx
+|   |   |   |       Rig_Large_General.fbx.meta
+|   |   |   |       Rig_Large_MovementAdvanced.fbx
+|   |   |   |       Rig_Large_MovementAdvanced.fbx.meta
+|   |   |   |       Rig_Large_MovementBasic.fbx
+|   |   |   |       Rig_Large_MovementBasic.fbx.meta
+|   |   |   |       Rig_Large_Simulation.fbx
+|   |   |   |       Rig_Large_Simulation.fbx.meta
+|   |   |   |       Rig_Large_Special.fbx
+|   |   |   |       Rig_Large_Special.fbx.meta
+|   |   |   |       
+|   |   |   \---Rig_Medium
+|   |   |           Mannequin_Medium.controller
+|   |   |           Mannequin_Medium.controller.meta
+|   |   |           Rig_Medium_CombatMelee.fbx
+|   |   |           Rig_Medium_CombatMelee.fbx.meta
+|   |   |           Rig_Medium_CombatRanged.fbx
+|   |   |           Rig_Medium_CombatRanged.fbx.meta
+|   |   |           Rig_Medium_General.fbx
+|   |   |           Rig_Medium_General.fbx.meta
+|   |   |           Rig_Medium_MovementAdvanced.fbx
+|   |   |           Rig_Medium_MovementAdvanced.fbx.meta
+|   |   |           Rig_Medium_MovementBasic.fbx
+|   |   |           Rig_Medium_MovementBasic.fbx.meta
+|   |   |           Rig_Medium_Simulation.fbx
+|   |   |           Rig_Medium_Simulation.fbx.meta
+|   |   |           Rig_Medium_Special.fbx
+|   |   |           Rig_Medium_Special.fbx.meta
+|   |   |           Rig_Medium_Tools.fbx
+|   |   |           Rig_Medium_Tools.fbx.meta
+|   |   |           
+|   |   \---gltf
+|   |       |   Rig_Large.meta
+|   |       |   Rig_Medium.meta
+|   |       |   
+|   |       +---Rig_Large
+|   |       |       Rig_Large_CombatMelee.glb
+|   |       |       Rig_Large_CombatMelee.glb.meta
+|   |       |       Rig_Large_General.glb
+|   |       |       Rig_Large_General.glb.meta
+|   |       |       Rig_Large_MovementAdvanced.glb
+|   |       |       Rig_Large_MovementAdvanced.glb.meta
+|   |       |       Rig_Large_MovementBasic.glb
+|   |       |       Rig_Large_MovementBasic.glb.meta
+|   |       |       Rig_Large_Simulation.glb
+|   |       |       Rig_Large_Simulation.glb.meta
+|   |       |       Rig_Large_Special.glb
+|   |       |       Rig_Large_Special.glb.meta
+|   |       |       
+|   |       \---Rig_Medium
+|   |               Rig_Medium_CombatMelee.glb
+|   |               Rig_Medium_CombatMelee.glb.meta
+|   |               Rig_Medium_CombatRanged.glb
+|   |               Rig_Medium_CombatRanged.glb.meta
+|   |               Rig_Medium_General.glb
+|   |               Rig_Medium_General.glb.meta
+|   |               Rig_Medium_MovementAdvanced.glb
+|   |               Rig_Medium_MovementAdvanced.glb.meta
+|   |               Rig_Medium_MovementBasic.glb
+|   |               Rig_Medium_MovementBasic.glb.meta
+|   |               Rig_Medium_Simulation.glb
+|   |               Rig_Medium_Simulation.glb.meta
+|   |               Rig_Medium_Special.glb
+|   |               Rig_Medium_Special.glb.meta
+|   |               Rig_Medium_Tools.glb
+|   |               Rig_Medium_Tools.glb.meta
+|   |               
+|   \---Mannequin Character
+|       |   characters.meta
+|       |   Textures.meta
+|       |   
+|       +---characters
+|       |       Mannequin_Large.fbx
+|       |       Mannequin_Large.fbx.meta
+|       |       Mannequin_Large.glb
+|       |       Mannequin_Large.glb.meta
+|       |       Mannequin_Medium.fbx
+|       |       Mannequin_Medium.fbx.meta
+|       |       Mannequin_Medium.glb
+|       |       Mannequin_Medium.glb.meta
+|       |       
+|       \---Textures
+|               mannequin_texture.png
+|               mannequin_texture.png.meta
+|               
++---Matthew Guz
+|   |   .DS_Store
+|   |   Hits Effects FREE.meta
+|   |   
+|   \---Hits Effects FREE
+|       |   Documentation.meta
+|       |   Materials.meta
+|       |   Prefab.meta
+|       |   Scene Demo.meta
+|       |   Textures.meta
+|       |   
+|       +---Documentation
+|       |       Readme IMPORTANT.pdf
+|       |       Readme IMPORTANT.pdf.meta
+|       |       Readme IMPORTANT.txt
+|       |       Readme IMPORTANT.txt.meta
+|       |       
+|       +---Materials
+|       |   |   1.2.meta
+|       |   |   Basic Hit.meta
+|       |   |   Fire Hit.meta
+|       |   |   Floor.meta
+|       |   |   Ice Hit.meta
+|       |   |   Lightning Hit (Blue).meta
+|       |   |   Love Hit.meta
+|       |   |   Magic Hit.meta
+|       |   |   
+|       |   +---1.2
+|       |   |   |   Basic.meta
+|       |   |   |   Shadow.meta
+|       |   |   |   
+|       |   |   +---Basic
+|       |   |   |       Basic.mat
+|       |   |   |       Basic.mat.meta
+|       |   |   |       Shockwave 1.mat
+|       |   |   |       Shockwave 1.mat.meta
+|       |   |   |       Shockwave 2.mat
+|       |   |   |       Shockwave 2.mat.meta
+|       |   |   |       Shockwave 3.mat
+|       |   |   |       Shockwave 3.mat.meta
+|       |   |   |       Shockwave 5.mat
+|       |   |   |       Shockwave 5.mat.meta
+|       |   |   |       Shockwave.mat
+|       |   |   |       Shockwave.mat.meta
+|       |   |   |       Spark 2.mat
+|       |   |   |       Spark 2.mat.meta
+|       |   |   |       Spark.mat
+|       |   |   |       Spark.mat.meta
+|       |   |   |       
+|       |   |   \---Shadow
+|       |   |           Flash.mat
+|       |   |           Flash.mat.meta
+|       |   |           Impact 1.mat
+|       |   |           Impact 1.mat.meta
+|       |   |           Impact.mat
+|       |   |           Impact.mat.meta
+|       |   |           
+|       |   +---Basic Hit
+|       |   |       Basic Crit 2.mat
+|       |   |       Basic Crit 2.mat.meta
+|       |   |       Basic Flash.mat
+|       |   |       Basic Flash.mat.meta
+|       |   |       Basic Hit.mat
+|       |   |       Basic Hit.mat.meta
+|       |   |       Basic Shockwave 2.mat
+|       |   |       Basic Shockwave 2.mat.meta
+|       |   |       Basic Shockwave.mat
+|       |   |       Basic Shockwave.mat.meta
+|       |   |       
+|       |   +---Fire Hit
+|       |   |       Fire Flash B.mat
+|       |   |       Fire Flash B.mat.meta
+|       |   |       Fire Flash.mat
+|       |   |       Fire Flash.mat.meta
+|       |   |       Fire Hit B.mat
+|       |   |       Fire Hit B.mat.meta
+|       |   |       Fire Hit.mat
+|       |   |       Fire Hit.mat.meta
+|       |   |       Fire Shockwave 2.mat
+|       |   |       Fire Shockwave 2.mat.meta
+|       |   |       Fire Shockwave.mat
+|       |   |       Fire Shockwave.mat.meta
+|       |   |       Fire Smoke.mat
+|       |   |       Fire Smoke.mat.meta
+|       |   |       Fire Spark.mat
+|       |   |       Fire Spark.mat.meta
+|       |   |       
+|       |   +---Floor
+|       |   |   |   Floor.mat
+|       |   |   |   Floor.mat.meta
+|       |   |   |   Texture.meta
+|       |   |   |   
+|       |   |   \---Texture
+|       |   |           Albedo.png
+|       |   |           Albedo.png.meta
+|       |   |           Height.png
+|       |   |           Height.png.meta
+|       |   |           
+|       |   +---Ice Hit
+|       |   |       Ice Flash.mat
+|       |   |       Ice Flash.mat.meta
+|       |   |       Ice Hit.mat
+|       |   |       Ice Hit.mat.meta
+|       |   |       Ice Shockwave.mat
+|       |   |       Ice Shockwave.mat.meta
+|       |   |       Ice Smoke.mat
+|       |   |       Ice Smoke.mat.meta
+|       |   |       Ice Spark.mat
+|       |   |       Ice Spark.mat.meta
+|       |   |       
+|       |   +---Lightning Hit (Blue)
+|       |   |       Lightning HitB.mat
+|       |   |       Lightning HitB.mat.meta
+|       |   |       Lightning ShockwaveB.mat
+|       |   |       Lightning ShockwaveB.mat.meta
+|       |   |       Lightning SparkB.mat
+|       |   |       Lightning SparkB.mat.meta
+|       |   |       Lightning TrailB.mat
+|       |   |       Lightning TrailB.mat.meta
+|       |   |       
+|       |   +---Love Hit
+|       |   |       Love Flash.mat
+|       |   |       Love Flash.mat.meta
+|       |   |       Love Hit.mat
+|       |   |       Love Hit.mat.meta
+|       |   |       Love Shockwave.mat
+|       |   |       Love Shockwave.mat.meta
+|       |   |       Love Spark.mat
+|       |   |       Love Spark.mat.meta
+|       |   |       
+|       |   \---Magic Hit
+|       |           Magic Flash.mat
+|       |           Magic Flash.mat.meta
+|       |           Magic Hit.mat
+|       |           Magic Hit.mat.meta
+|       |           Magic Shockwave.mat
+|       |           Magic Shockwave.mat.meta
+|       |           Magic Simbol 2.mat
+|       |           Magic Simbol 2.mat.meta
+|       |           Magic Simbol.mat
+|       |           Magic Simbol.mat.meta
+|       |           
+|       +---Prefab
+|       |   |   1.2.meta
+|       |   |   Basic Hit .prefab
+|       |   |   Basic Hit .prefab.meta
+|       |   |   Basic Hit 2.prefab
+|       |   |   Basic Hit 2.prefab.meta
+|       |   |   Basic Hit 7.prefab
+|       |   |   Basic Hit 7.prefab.meta
+|       |   |   Fire Hit .prefab
+|       |   |   Fire Hit .prefab.meta
+|       |   |   Ice Hit .prefab
+|       |   |   Ice Hit .prefab.meta
+|       |   |   Lightning Hit Blue.prefab
+|       |   |   Lightning Hit Blue.prefab.meta
+|       |   |   Love Hit .prefab
+|       |   |   Love Hit .prefab.meta
+|       |   |   Magic Hit 2.prefab
+|       |   |   Magic Hit 2.prefab.meta
+|       |   |   
+|       |   \---1.2
+|       |           Basic Hit 8  (NEW).prefab
+|       |           Basic Hit 8  (NEW).prefab.meta
+|       |           Shadow Hit (NEW).prefab
+|       |           Shadow Hit (NEW).prefab.meta
+|       |           
+|       +---Scene Demo
+|       |   |   HIT EFFECTS FREE Scene Demo.unity
+|       |   |   HIT EFFECTS FREE Scene Demo.unity.meta
+|       |   |   SampleScene_Profiles.meta
+|       |   |   Script.meta
+|       |   |   
+|       |   +---SampleScene_Profiles
+|       |   |       PP Volumen Profile.asset
+|       |   |       PP Volumen Profile.asset.meta
+|       |   |       
+|       |   \---Script
+|       |           Prefab Manager.cs
+|       |           Prefab Manager.cs.meta
+|       |           
+|       \---Textures
+|           |   1-Crit.png
+|           |   1-Crit.png.meta
+|           |   1-Crit_.tiff
+|           |   1-Crit_.tiff.meta
+|           |   1-Crit_2.png
+|           |   1-Crit_2.png.meta
+|           |   1-Fire_.png
+|           |   1-Fire_.png.meta
+|           |   1-Ice Hit.png
+|           |   1-Ice Hit.png.meta
+|           |   1-Love.png
+|           |   1-Love.png.meta
+|           |   1-Love1.png
+|           |   1-Love1.png.meta
+|           |   1-Particle 2.png
+|           |   1-Particle 2.png.meta
+|           |   1-Particle.png
+|           |   1-Particle.png.meta
+|           |   1-Point.png
+|           |   1-Point.png.meta
+|           |   1-Shockwave 1.tiff
+|           |   1-Shockwave 1.tiff.meta
+|           |   1-Shockwave 2.png
+|           |   1-Shockwave 2.png.meta
+|           |   1-Shockwave.tiff
+|           |   1-Shockwave.tiff.meta
+|           |   1-Smoke.tiff
+|           |   1-Smoke.tiff.meta
+|           |   1-Sparks.tiff
+|           |   1-Sparks.tiff.meta
+|           |   1.2.meta
+|           |   
+|           \---1.2
+|               |   Basic.meta
+|               |   Shadow.meta
+|               |   
+|               +---Basic
+|               |       Impact 2.png
+|               |       Impact 2.png.meta
+|               |       Impact.png
+|               |       Impact.png.meta
+|               |       Point.png
+|               |       Point.png.meta
+|               |       Shockwave.png
+|               |       Shockwave.png.meta
+|               |       Spark 1.png
+|               |       Spark 1.png.meta
+|               |       Spark 2.png
+|               |       Spark 2.png.meta
+|               |       Spark 3.png
+|               |       Spark 3.png.meta
+|               |       Spark 6.png
+|               |       Spark 6.png.meta
+|               |       Spark.png
+|               |       Spark.png.meta
+|               |       
+|               \---Shadow
+|                       Impact (3).png
+|                       Impact (3).png.meta
+|                       Impact (4).png
+|                       Impact (4).png.meta
+|                       Impact (5).png
+|                       Impact (5).png.meta
+|                       
++---Resources
+|       DOTweenSettings.asset
+|       DOTweenSettings.asset.meta
+|       
++---Scenes
+|       SampleScene.unity
+|       SampleScene.unity.meta
+|       
++---Settings
+|       DefaultVolumeProfile.asset
+|       DefaultVolumeProfile.asset.meta
+|       Mobile_Renderer.asset
+|       Mobile_Renderer.asset.meta
+|       Mobile_RPAsset.asset
+|       Mobile_RPAsset.asset.meta
+|       PC_Renderer.asset
+|       PC_Renderer.asset.meta
+|       PC_RPAsset.asset
+|       PC_RPAsset.asset.meta
+|       SampleSceneProfile.asset
+|       SampleSceneProfile.asset.meta
+|       UniversalRenderPipelineGlobalSettings.asset
+|       UniversalRenderPipelineGlobalSettings.asset.meta
+|       
+\---TextMesh Pro
+    |   Fonts.meta
+    |   Resources.meta
+    |   Shaders.meta
+    |   Sprites.meta
+    |   
+    +---Fonts
+    |       LiberationSans - OFL.txt
+    |       LiberationSans - OFL.txt.meta
+    |       LiberationSans.ttf
+    |       LiberationSans.ttf.meta
+    |       
+    +---Resources
+    |   |   Fonts & Materials.meta
+    |   |   LineBreaking Following Characters.txt
+    |   |   LineBreaking Following Characters.txt.meta
+    |   |   LineBreaking Leading Characters.txt
+    |   |   LineBreaking Leading Characters.txt.meta
+    |   |   Sprite Assets.meta
+    |   |   Style Sheets.meta
+    |   |   TMP Settings.asset
+    |   |   TMP Settings.asset.meta
+    |   |   
+    |   +---Fonts & Materials
+    |   |       LiberationSans SDF - Drop Shadow.mat
+    |   |       LiberationSans SDF - Drop Shadow.mat.meta
+    |   |       LiberationSans SDF - Fallback.asset
+    |   |       LiberationSans SDF - Fallback.asset.meta
+    |   |       LiberationSans SDF - Outline.mat
+    |   |       LiberationSans SDF - Outline.mat.meta
+    |   |       LiberationSans SDF.asset
+    |   |       LiberationSans SDF.asset.meta
+    |   |       
+    |   +---Sprite Assets
+    |   |       EmojiOne.asset
+    |   |       EmojiOne.asset.meta
+    |   |       
+    |   \---Style Sheets
+    |           Default Style Sheet.asset
+    |           Default Style Sheet.asset.meta
+    |           
+    +---Shaders
+    |       SDFFunctions.hlsl
+    |       SDFFunctions.hlsl.meta
+    |       TMPro.cginc
+    |       TMPro.cginc.meta
+    |       TMPro_Mobile.cginc
+    |       TMPro_Mobile.cginc.meta
+    |       TMPro_Properties.cginc
+    |       TMPro_Properties.cginc.meta
+    |       TMPro_Surface.cginc
+    |       TMPro_Surface.cginc.meta
+    |       TMP_Bitmap-Custom-Atlas.shader
+    |       TMP_Bitmap-Custom-Atlas.shader.meta
+    |       TMP_Bitmap-Mobile.shader
+    |       TMP_Bitmap-Mobile.shader.meta
+    |       TMP_Bitmap.shader
+    |       TMP_Bitmap.shader.meta
+    |       TMP_SDF Overlay.shader
+    |       TMP_SDF Overlay.shader.meta
+    |       TMP_SDF SSD.shader
+    |       TMP_SDF SSD.shader.meta
+    |       TMP_SDF-HDRP LIT.shadergraph
+    |       TMP_SDF-HDRP LIT.shadergraph.meta
+    |       TMP_SDF-HDRP UNLIT.shadergraph
+    |       TMP_SDF-HDRP UNLIT.shadergraph.meta
+    |       TMP_SDF-Mobile Masking.shader
+    |       TMP_SDF-Mobile Masking.shader.meta
+    |       TMP_SDF-Mobile Overlay.shader
+    |       TMP_SDF-Mobile Overlay.shader.meta
+    |       TMP_SDF-Mobile SSD.shader
+    |       TMP_SDF-Mobile SSD.shader.meta
+    |       TMP_SDF-Mobile-2-Pass.shader
+    |       TMP_SDF-Mobile-2-Pass.shader.meta
+    |       TMP_SDF-Mobile.shader
+    |       TMP_SDF-Mobile.shader.meta
+    |       TMP_SDF-Surface-Mobile.shader
+    |       TMP_SDF-Surface-Mobile.shader.meta
+    |       TMP_SDF-Surface.shader
+    |       TMP_SDF-Surface.shader.meta
+    |       TMP_SDF-URP Lit.shadergraph
+    |       TMP_SDF-URP Lit.shadergraph.meta
+    |       TMP_SDF-URP Unlit.shadergraph
+    |       TMP_SDF-URP Unlit.shadergraph.meta
+    |       TMP_SDF.shader
+    |       TMP_SDF.shader.meta
+    |       TMP_Sprite.shader
+    |       TMP_Sprite.shader.meta
+    |       
+    \---Sprites
+            EmojiOne Attribution.txt
+            EmojiOne Attribution.txt.meta
+            EmojiOne.json
+            EmojiOne.json.meta
+            EmojiOne.png
+            EmojiOne.png.meta
+            
