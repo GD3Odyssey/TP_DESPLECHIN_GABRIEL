@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2832be3cf93b5724baea669d79d625fa, type: 3}
   m_Name: Ability_Fireball
   m_EditorClassIdentifier: Assembly-CSharp::AbilityData
-  abilityName: "Nouvelle comp\xE9tence"
-  description: 
+  abilityName: Fireball
+  description: Lance une boule de feu.
   icon: {fileID: 0}
-  effectColor: {r: 1, g: 1, b: 1, a: 1}
-  damage: 10
-  cooldown: 2
-  projectileSpeed: 10
-  projectilePrefab: {fileID: 0}
-  impactPrefab: {fileID: 0}
-  animationTrigger: 
+  effectColor: {r: 1, g: 0.54371953, b: 0, a: 1}
+  damage: 25
+  cooldown: 3
+  projectileSpeed: 12
+  projectilePrefab: {fileID: 6449290658043271801, guid: dc23b3b5dc64a3844a98c96cfd6b1795, type: 3}
+  impactPrefab: {fileID: 5435998012328932994, guid: d8703a33a4eb0b84a875202fde23e8f7, type: 3}
+  animationTrigger: Attack1H
